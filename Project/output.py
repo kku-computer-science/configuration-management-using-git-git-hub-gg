@@ -1,3 +1,7 @@
+"""
+ของ ญานวิทย์ พิชญกุลมงคล
+หน้าที่: output
+"""
 from bubble_sort import bubble_sort
 from quick_sort import quick_sort
 def sort_numbers(numbers, algorithm):
