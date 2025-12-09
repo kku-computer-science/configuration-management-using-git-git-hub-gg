@@ -21,7 +21,7 @@ Project/
 
 ## วิธีใช้
 
-1.clone repository เครื่อง
+1.clone repository ลงเครื่่องของตัวเอง ใช้ VSCode ในการเปิด
 https://github.com/kku-computer-science/configuration-management-using-git-git-hub-gg.git
 
 2.เปิด main.py ใน Project
@@ -39,6 +39,6 @@ cd Project (...\Project)
 
 <img width="687" height="190" alt="Image" src="https://github.com/user-attachments/assets/73b57e5f-943e-42d2-8308-8d2ec31c5c52" />
 
-7.ถ้าใส่ผืดจะต้อง run python main.py
+7.ถ้าใส่ผิดจะต้อง run python main.py
 
 <img width="684" height="153" alt="Image" src="https://github.com/user-attachments/assets/b0f65c58-dcb7-4afb-a3a0-e1cefe40d4f4" />
